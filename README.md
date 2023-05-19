@@ -1,1 +1,1 @@
-# titanic-dataset
+# titanic dataset
